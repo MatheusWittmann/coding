@@ -1,4 +1,3 @@
-# coding
+#Meu repositório de exercícios
 
 Lista de exercícios
-#Meu repositório de exercícios
